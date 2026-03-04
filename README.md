@@ -1,0 +1,1 @@
+This repository was created to share the exercise i'm doing to learn java.
