@@ -1,1 +1,1 @@
-This repository was created to share the exercise i'm doing to learn java.
+Esse repositório foi criado para compartilhar os exercícios que eu fiz para aprender a programar em java
